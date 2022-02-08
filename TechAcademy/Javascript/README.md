@@ -1,3 +1,3 @@
 # GitHub
  
-A repository for training in Javascript.
+A repository for training in JavaScript.
