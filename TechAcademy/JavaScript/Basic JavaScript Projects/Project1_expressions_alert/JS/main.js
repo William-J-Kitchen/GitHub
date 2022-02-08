@@ -3,7 +3,7 @@ document.write(stringValue+secondString+" "+intValue1); //concatenates three of 
 var Sum=intValue1+intValue2;
 document.write(", " + Sum + "."); //writes the value of Sum, with some formatting.
 window.alert('Hello, world!'); //pops up the text
-document.write(' Hello, woorrrrld!'); //outputs the text into the body
+document.write(' Hello, woorrrrld!'.fontcolor('ff00')); //outputs the text into the body
 
 function Button() { //Defining a function called Button
     var buttonStr = "This is the button text!"; //Defining a string called buttonStr
