@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Basic AJAX Demo</title>
+		<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="main">
+			<h2>Get The Latest Content:</h2>
+			<div class='content' id="content">
+
+            <p id="demo"></p>
+
+
+        <script>
+            let base = document.baseURI;
+            document.getElementById('demo').innerHTML = base;
+
+		</script>
+    </body>
+</html>
