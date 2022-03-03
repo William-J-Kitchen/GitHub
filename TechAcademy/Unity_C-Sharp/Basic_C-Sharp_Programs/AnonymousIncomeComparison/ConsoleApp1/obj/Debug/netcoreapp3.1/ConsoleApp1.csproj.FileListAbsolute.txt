@@ -1,0 +1,13 @@
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AnonymousIncomeComparison\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

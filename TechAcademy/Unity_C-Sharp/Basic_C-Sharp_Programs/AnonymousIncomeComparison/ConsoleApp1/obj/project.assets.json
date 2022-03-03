@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\DailyReport\\DailyReport.csproj",
-      "projectName": "DailyReport",
-      "projectPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\DailyReport\\DailyReport.csproj",
+      "projectUniqueName": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\AnonymousIncomeComparison\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\AnonymousIncomeComparison\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\billi\\.nuget\\packages\\",
-      "outputPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\DailyReport\\obj\\",
+      "outputPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\AnonymousIncomeComparison\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
