@@ -10,7 +10,7 @@ class Program
             var numList = new List<int> { 12, 14, 62, 3, 10 };
             Console.WriteLine("Pick a number.");
             int divisor = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Dividing the two...");
+            Console.WriteLine("Dividing the list by your number...");
             foreach(int dividend in numList)
             {
                 int quotient = dividend / divisor;
