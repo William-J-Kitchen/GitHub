@@ -5,14 +5,14 @@ using System.Text;
 
 public static class MathClass
 {
-    public static float Division(float x)
-    { return (x / 3f); }
+    public static int Division(int x)
+    { return (x / 3); }
 
-    public static float Multiplication(float y)
-    { return (y * 3f); }
+    public static int Multiplication(int y)
+    { return (y * 3); }
 
-    public static float Addition(float z)
-    { return (z + 3f); }
+    public static int Addition(int z)
+    { return (z + 3); }
 }
 
 
