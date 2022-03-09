@@ -10,7 +10,7 @@ public static class ClassOMethods
         return (mult * 3);
     }
 
-    public static decimal Multiplication(decimal decMult)
+    public static int Multiplication(decimal decMult)
     {
         int x = Convert.ToInt32(decMult * 3m);
         return (x);

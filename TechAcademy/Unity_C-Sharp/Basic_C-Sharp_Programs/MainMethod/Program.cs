@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Program
 {
     public static int mult = 3;
-    public static decimal decMult = 4;
+    public static decimal decMult = 3.5m;
     public static string stringMult = "5";
     public static void Main()
     {

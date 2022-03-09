@@ -11,3 +11,4 @@ D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\Mai
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.dll
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.pdb
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.genruntimeconfig.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.AssemblyReference.cache
