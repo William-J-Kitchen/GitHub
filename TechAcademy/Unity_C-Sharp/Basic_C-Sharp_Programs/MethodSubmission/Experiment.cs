@@ -9,8 +9,8 @@ public static class Experiment
     {
         return (test1 * test2 * 2);
     }
-    public static int Optional2 (int divisor = 1, int dividend = 1)
+    public static int Optional2 (int uservalue, int uservalue2 = 1)
     {
-        return (divisor / dividend);
+        return (uservalue / uservalue2);
     }
 }
