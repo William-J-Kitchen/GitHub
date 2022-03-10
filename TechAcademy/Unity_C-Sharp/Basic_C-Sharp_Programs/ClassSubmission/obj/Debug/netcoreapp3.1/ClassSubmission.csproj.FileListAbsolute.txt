@@ -1,0 +1,14 @@
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.exe
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.deps.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.dev.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.AssemblyReference.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfoInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfo.cs
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.CoreCompileInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache

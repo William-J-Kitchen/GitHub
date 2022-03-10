@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\TwentyOne\\TwentyOne.csproj",
-      "projectName": "TwentyOne",
-      "projectPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\TwentyOne\\TwentyOne.csproj",
+      "projectUniqueName": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\ClassSubmission\\ClassSubmission.csproj",
+      "projectName": "ClassSubmission",
+      "projectPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\ClassSubmission\\ClassSubmission.csproj",
       "packagesPath": "C:\\Users\\billi\\.nuget\\packages\\",
-      "outputPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\TwentyOne\\obj\\",
+      "outputPath": "D:\\Vault\\Development\\GitHub\\TechAcademy\\Unity_C-Sharp\\Basic_C-Sharp_Programs\\ClassSubmission\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
