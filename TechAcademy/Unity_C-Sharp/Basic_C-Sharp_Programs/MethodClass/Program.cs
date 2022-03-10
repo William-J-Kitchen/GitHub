@@ -3,12 +3,11 @@
 
 public class Program
 {
-    public static int mult = 3;
-    public static int returned = 6;
+
     static void Main(string[] args)
     {
 
-        VoidClass.MathReturned(mult, returned);
+        VoidClass.MathReturned(mult: 3, returned:6);
     }
 }
 
