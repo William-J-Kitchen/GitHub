@@ -11,10 +11,13 @@ public class Program
     {
         Console.WriteLine("Pick a number.");
         public int userNum = Convert.ToInt32(Console.ReadLine());
-        PracticeClass.Division(userNum);
-        using PracticeClass.Division(userNum);
-        Console.WriteLine(PracticeClass.Multiplication(userNum));
-        Console.WriteLine(PracticeClass.Multiplication(userNum, defaultNum));
+        PracticeClass myObject = new PracticeClass();
+        myObject
+
+        //PracticeClass.Division(userNum);
+        
+        //Console.WriteLine(PracticeClass.Multiplication(userNum));
+        //Console.WriteLine(PracticeClass.Multiplication(userNum, defaultNum));
     }
 }
 
