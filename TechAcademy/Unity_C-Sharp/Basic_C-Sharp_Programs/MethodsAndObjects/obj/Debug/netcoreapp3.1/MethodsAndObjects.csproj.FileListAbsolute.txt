@@ -1,0 +1,14 @@
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache
