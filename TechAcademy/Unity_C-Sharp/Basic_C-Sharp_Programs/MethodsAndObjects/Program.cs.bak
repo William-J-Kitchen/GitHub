@@ -6,7 +6,7 @@ namespace MethodsAndObjects
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello World!");
             Employee Employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             
             Employee.SayName(Employee);
