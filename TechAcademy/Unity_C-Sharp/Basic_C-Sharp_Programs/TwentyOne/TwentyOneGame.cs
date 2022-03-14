@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOne
 {
-    class TwentyOneGame : Game //: <Name> causes this to inherit from the Game class
+    class TwentyOneGame : Game, IWalkAway //: <Name> causes this to inherit from the Game class
 
     {
         public override void Play()
@@ -17,6 +17,9 @@ namespace TwentyOne
             Console.WriteLine("21 Players: ");
             base.ListPlayers();
         }
-
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
