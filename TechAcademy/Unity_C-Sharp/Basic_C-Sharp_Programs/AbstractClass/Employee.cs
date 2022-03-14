@@ -6,7 +6,7 @@ namespace AbstractClass
 {
     public class Employee : Person
     {
-        public void SayName()
+        public override void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }

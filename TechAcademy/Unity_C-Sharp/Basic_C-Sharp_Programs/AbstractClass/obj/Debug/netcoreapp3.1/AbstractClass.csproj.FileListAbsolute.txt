@@ -11,3 +11,4 @@ D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\Abs
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
 D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.AssemblyReference.cache
