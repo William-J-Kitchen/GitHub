@@ -6,23 +6,15 @@ namespace OverloadedOperators
     {
         static void Main(string[] args)
         {
-            public static bool operator == (Employee Id, Employee Id2)
-            {
-            if (Id == Id2)
-            {  
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-            
-            }
 
-            public static bool operator != (Employee Id, bool test)
-            {
-            return false;
-            }
+            
+            Employee Employee = new Employee() { firstName = "Test", Id = 3000 };
+            Employee Employee2 = new Employee() { firstName = "Second", Id = 3001 };
+
+            Console.WriteLine(Employee == Employee2);
+            Console.WriteLine(Employee != Employee2);
+
+
         }
     }
 }

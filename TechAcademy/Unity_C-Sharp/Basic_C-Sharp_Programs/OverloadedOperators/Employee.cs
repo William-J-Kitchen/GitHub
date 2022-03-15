@@ -6,8 +6,16 @@ namespace OverloadedOperators
 {
     public class Employee
     {
-        int Id=3000;
-        int Id2 = 3001;
-        bool test = false;
+        public string firstName { get; set; }
+        public int Id { get; set; }
+
+        public static bool operator== (Employee emp1, Employee emp2)
+        {
+            return emp1.Id == emp2.Id;
+        }
+        public static bool operator!= (Employee emp13, Employee emp23)
+        {
+            return emp13.Id != emp23.Id;
+        }
     }
 }
