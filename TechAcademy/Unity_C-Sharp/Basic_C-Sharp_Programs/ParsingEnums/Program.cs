@@ -14,6 +14,8 @@ namespace ParsingEnums
                 day=Enum.Parse<DaysOfTheWeek>(userInput);
                 int underlyingValue = (int)day;
                 Console.WriteLine(underlyingValue);
+                //DaysOfTheWeek underlyingValue = (DaysOfTheWeek)day;
+                //Console.WriteLine(underlyingValue);
             }
             catch (System.ArgumentException)
             {
