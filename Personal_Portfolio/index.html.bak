@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en-US">
+    <!--Head-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width" />
+        <title>William | Portfolio</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet/portfolio.css">
+    </head>
+    <!--Body-->
+    <body class="Background">
+        
+        <!--Navbar-->
+        <div class="Navbar">
+            <a href="#Contact">Contact</a>
+            <a href="#GitHub">GitHub</a>
+			<a href="#Projects">Projects</a>
+            <a href="#About">About</a>
+            <a class="active" href="#Home">Home</a>
+        </div>
+
+        <!--Breaks inserted to add space between navbar and the first heading-->
+        <br>
+        <br>
+        
+
+        <!-- About Section -->
+        <div class="Row" id="About">
+            <div class="Column_1">
+                <h1> William Kitchen</h1>
+                <h3> Junior Game Developer</h3>
+                <h5> I am a software developer who is passionate about video games.<br>
+
+                    I graduated from <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy’s</a> Game Developer Boot Camp, and have 8 years of experience as a Systems Administrator.<br>
+                    
+                    Through this, I've gained experience with the following web and programming languages: HTML, CSS, JavaScript, SQL, C++, C#, and more.<br>
+                    
+                    I am a full-stack developer and would love to work with you on your project. Please <a href="#Contact">contact</a> me below!</h5>
+            </div>
+            <div class="Column_2">
+                <img src="images/ProfilePic.jpg" alt="Profile Picture">
+            </div>
+            <br><br>
+        </div>
+		
+		<!-- Projects Section -->
+		<div class="Row" id="Projects">
+			<!--Left column-->
+			<div class="Column_1">
+				<h1>Projects</h1>
+				<p>
+					<h5>Block Shooter</h5>
+					<br>
+				</p>
+			</div>
+			<!--Right column-->
+			<div class="Column_2">
+				<img src="images/BlockShooter.png" alt="Block Shooter">
+			</div>
+			<br><br>
+		</div>
+
+
+        <!--GitHub section-->
+        <div class="Row" id="GitHub">
+            <!--Left column-->
+            <div class="Column_1">
+                <h1>GitHub</h1>
+                <p>
+                    <h5>You can view my coding projects on my GitHub profile here:</h5>
+                    <br>
+                    <p class="center"><a href="https://github.com/William-J-Kitchen/" target="_blank"><h5>My Github Site></h5></a></p>
+                </p>
+            </div>
+            <!--Right column-->
+            <div class="Column_2">
+                <a href="https://github.com/the-tech-academy" target="_blank"><img src="images/GitHub.png" alt="GitHub Logo"></a>
+            </div>
+        </div>
+		
+		
+
+        <!--Contact section-->
+        <div class="Row" id="Contact">
+            <!--Contact image, left column-->
+            <div class="Column_2 Column_tall">
+
+            </div>
+            <!--Contact form, right column-->
+            <div class="Column_1 Column_tall">
+                <h1>Contact</h1>
+                <!--This specifies where and how to send the form data; we are leaving it blank-->
+                <form action="https://formspree.io/f/mjvlyeez" method="POST"> <!-- Here we are utilizing a 3rd party service to submit the contact form data, insert your formspree endpoint in the action attribute -->
+                    <label>Name:</label>
+                        <input type="text" placeholder="Enter name here">
+                    <label>Email:</label>
+                        <input type="text" id="Email" name="Email" placeholder="Enter email here">
+                    <label>Message:</label>
+                        <input type="text" id="Message" name="Message" placeholder="Write message here">
+                        <input type="submit" value="SUBMIT">
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
