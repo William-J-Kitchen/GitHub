@@ -1,0 +1,5 @@
+﻿  Practice1.cpp
+D:\Vault\Development\GitHub\TechAcademy\UnrealCPlusPlus\Practice1\Practice1.cpp(51,27): warning C4584: 'GrandChild': base-class 'Functions' is already a base-class of 'Child'
+D:\Vault\Development\GitHub\TechAcademy\UnrealCPlusPlus\Practice1\Practice1.cpp(11): message : see declaration of 'Functions'
+D:\Vault\Development\GitHub\TechAcademy\UnrealCPlusPlus\Practice1\Practice1.cpp(44): message : see declaration of 'Child'
+  Practice1.vcxproj -> D:\Vault\Development\GitHub\TechAcademy\UnrealCPlusPlus\Practice1\Debug\Practice1.exe
