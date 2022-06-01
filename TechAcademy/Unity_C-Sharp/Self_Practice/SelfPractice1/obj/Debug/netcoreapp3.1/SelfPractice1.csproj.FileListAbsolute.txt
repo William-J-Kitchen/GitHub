@@ -1,0 +1,14 @@
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.exe
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.deps.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.runtimeconfig.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.runtimeconfig.dev.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\bin\Debug\netcoreapp3.1\SelfPractice1.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.csproj.AssemblyReference.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.AssemblyInfoInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.AssemblyInfo.cs
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.csproj.CoreCompileInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Self_Practice\SelfPractice1\obj\Debug\netcoreapp3.1\SelfPractice1.genruntimeconfig.cache
