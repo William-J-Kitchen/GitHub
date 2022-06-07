@@ -12,7 +12,6 @@ public:
     string Color;
 
     void getArea() {
-        cout << "The dog shakes.\n";
     };
 };
 
