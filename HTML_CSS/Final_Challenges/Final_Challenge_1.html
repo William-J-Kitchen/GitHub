@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="./css/Final_Challenge_1.css">
+        <script src="./JS/Final_Challenge_1.js" defer></script>
+    </head>
+    <body>
+        <script>
+            document.body.classList.add('fade-out');
+        </script>
+
+        <h1 style="font-size:8vw;" id="topHeader">This is a scaling Header</h1>
+        <hr>
+        <p style="font-size:2vw;">This is a scaling paragraph.</p>
+
+        <button class="open-button" onclick="openForm()">Open Registration Form</button>
+        
+        <div class="form-popup" id="myForm">
+            <form name="myForm" action="" onsubmit="return validateForm()" method="post" class="form-container">
+                <h1>Register</h1>
+
+                <label for="fname"><b>First Name</b></label><br>
+                <input type="text" class="inputtext" id="fname" name="fname" value="" placeholder="Enter First Name"><br>
+
+                <label for="lname"><b>Last Name</b></label><br>
+                <input type="text" class="inputtext" id="lname" name="lname" value="" placeholder="Enter Last Name"><br>
+
+                <label for="phone"><b>Phone Number</b></label><br>
+                <input type="text" class="inputtext" id="phone" name="phone" value="" placeholder="Enter Phone Number"><br><br>
+
+                <button type="submit" class="btn" value="Submit">Submit</button>
+                <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+
+            </form> 
+        </div>
+
+        <div id="fadein" class="fadein">
+            <img src="./images/2021-04-21_01.jpg" class="">
+            <img src="./images/2021-04-21_02.jpg" class="is-hidden">
+            <img src="./images/2021-04-21_03.jpg" class="is-hidden">
+        </div>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <a href="#topHeader">Click to go to top.</a>
+        <img src="./images/leafchomp.jpg" onclick="openLightbox();toSlide(3)" class="zoominoutimg">
+    </body>
+</html>

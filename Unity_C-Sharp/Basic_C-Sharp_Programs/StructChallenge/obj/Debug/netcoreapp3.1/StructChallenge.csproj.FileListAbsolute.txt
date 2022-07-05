@@ -1,0 +1,14 @@
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.exe
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.deps.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.runtimeconfig.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.runtimeconfig.dev.json
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\bin\Debug\netcoreapp3.1\StructChallenge.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.csproj.AssemblyReference.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.AssemblyInfoInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.AssemblyInfo.cs
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.csproj.CoreCompileInputs.cache
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.dll
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.pdb
+D:\Vault\Development\GitHub\TechAcademy\Unity_C-Sharp\Basic_C-Sharp_Programs\StructChallenge\obj\Debug\netcoreapp3.1\StructChallenge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.exe
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.deps.json
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.runtimeconfig.json
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.runtimeconfig.dev.json
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.dll
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\bin\Debug\netcoreapp3.1\VariableAndDataTypes.pdb
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.csproj.AssemblyReference.cache
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.AssemblyInfoInputs.cache
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.AssemblyInfo.cs
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.csproj.CoreCompileInputs.cache
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.dll
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.pdb
+D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\VariableAndDataTypes\obj\Debug\netcoreapp3.1\VariableAndDataTypes.genruntimeconfig.cache
