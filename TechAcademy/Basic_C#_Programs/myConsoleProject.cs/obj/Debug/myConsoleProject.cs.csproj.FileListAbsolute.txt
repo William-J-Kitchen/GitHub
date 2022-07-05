@@ -1,7 +1,0 @@
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
-D:\Vault\Development\The Tech Academy\C#\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
